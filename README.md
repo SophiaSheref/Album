@@ -1,2 +1,2 @@
-# Album
+# Albums
 Mobile App
